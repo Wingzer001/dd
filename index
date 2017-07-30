@@ -82,7 +82,7 @@
   <body>
     <header>
   <h1>Mozilla</h1>
-  <img src="file:///C:/Users/Wingzero/Desktop/Old/new folder/firefox_logo-only_rgb120.png"> 
+  <img src="Old/new folder/firefox_logo-only_rgb120.png"> 
   <!-- insert <img> element, link to the small
           version of the Firefox logo -->
 </header>
